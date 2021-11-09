@@ -1,2 +1,2 @@
-baseDataUri: "https://opendata.nederlandwereldwijd.nl/v1/sources/nederlandwereldwijd/infotypes/traveladvice"
+baseDataUri: "poc.yml from git"
 fetchInterval: "00:05:00"
