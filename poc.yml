@@ -1,2 +1,3 @@
-baseDataUri: "poc.yml from git"
-fetchInterval: "00:05:00"
+appOptions:
+  baseDataUri: "poc.yml from git"
+  fetchInterval: "00:05:00"
