@@ -1,2 +1,3 @@
-baseDataUri: "https://opendata.nederlandwereldwijd.nl/v1/sources/nederlandwereldwijd/infotypes/traveladvice"
-fetchInterval: "00:05:00"
+contracts:
+  id: 1
+  name: "contract 1"
